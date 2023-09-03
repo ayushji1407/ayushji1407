@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React,HTML,CSS,Mogoose,Express,Nodejs,JAVA**
 
-- 📫 How to reach me **ayushji1407@gmaol.com**
+- 📫 How to reach me **ayushji1407@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
