@@ -1,3 +1,4 @@
+![logo](https://github.com/ayushji1407/ayushji1407/blob/main/Screenshot%20(78).png)
 <h1 align="center">Hi 👋, I'm Ayush Baghel</h1>
 <h3 align="center">A passionate Full Stuck Web Developer from India</h3>
 
